@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lection_7.dir/main.c.o  -o Lection_7 

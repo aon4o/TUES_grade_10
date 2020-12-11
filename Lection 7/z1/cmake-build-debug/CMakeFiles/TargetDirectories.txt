@@ -1,0 +1,3 @@
+/media/aon2003/DATA/ДАСКАЛО/10клас/Програмиране C/Lection 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/aon2003/DATA/ДАСКАЛО/10клас/Програмиране C/Lection 7/cmake-build-debug/CMakeFiles/Lection_7.dir
+/media/aon2003/DATA/ДАСКАЛО/10клас/Програмиране C/Lection 7/cmake-build-debug/CMakeFiles/edit_cache.dir

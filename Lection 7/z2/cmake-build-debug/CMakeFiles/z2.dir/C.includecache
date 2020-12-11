@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/aon2003/DATA/ДАСКАЛО/10клас/Програмиране C/Lection 7/z2/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
